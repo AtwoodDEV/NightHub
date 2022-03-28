@@ -41,7 +41,7 @@ You will be starting by opening the Executor you are using!
 - After **Injecting** you will copy the **loadstring** below!
 
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtwoodDEV/NightHub/main/NightHub-Loader.lua"))()
 ```
 - Once you copied the **loadstring** you are going to paste it in the executor.
 - After all that find the **EXECUTE** button and click it to load the script!
@@ -65,7 +65,7 @@ loadstring(game:HttpGet(""))()
 ### While ***Synapse X*** is attaching to Roblox you can go ahead and copy the ***Loadstring*** below!
   
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtwoodDEV/NightHub/main/NightHub-Loader.lua"))()
 ```
 
 ### After that you have copied the Loadstring you can go ahead and ***PASTE*** it into the Executor.
@@ -99,7 +99,7 @@ You will be starting by opening the Executor you are using!
 - After **Injecting** you will copy the **loadstring** below!
 
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtwoodDEV/NightHub/main/NightHub-Loader.lua"))()
 ```
 - Once you copied the **loadstring** you are going to paste it in the executor.
 - After all that find the **EXECUTE** button and click it to load the script!
@@ -122,7 +122,7 @@ loadstring(game:HttpGet(""))()
 ## Loadstring
 
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtwoodDEV/NightHub/main/NightHub-Loader.lua"))()
 ```
 
 ## Features
