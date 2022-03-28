@@ -14,7 +14,7 @@
 
 ## Description
 
-**NightHub** is a hub/gui whatever you want to call it. I made **NightHub** to remove all the singel scripts for each games! Do you have a large ammount of script hubs for all of your games? well **NightHub** can solve that problem. **NightHub** is the one and only loadstring you will ever need! **NightHub** Is currently a small project that I am working on alone!
+**NightHub** is a hub/gui whatever you want to call it. I made **NightHub** to remove all the singel scripts for each games! Do you have a large ammount of script hubs for all of your games? well **NightHub** can solve that problem. **NightHub** is the one and only loadstring you will ever need! All tho **NightHub** is newly released! It Is currently a small project that I am working on alone!
 
 ## Execute
 
